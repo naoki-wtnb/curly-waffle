@@ -1,5 +1,9 @@
 # Amazon Purchases & Returns Data Analysis
  Amazon Spending Data Analysis, by Naoki Watanabe. 12/07/2022
+ 
+ This commandline utility analyses your Amazon spending and refund data and generates nice charts and graphs.
+ 
+ REQUIREMENTS: This requires pyhton 3, and you will need to install some dependencies through pip or whatever: pandas, matplotlib, maybe something else im forgetting.
 
  Download your Items and Refund report from https://www.amazon.com/b2b/reports and save them as amazon_spending.csv
  and amazon_refund.csv.
