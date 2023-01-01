@@ -16,3 +16,6 @@
 
 Note: If you have multiple items with a same title in the same order and returned one of the item, the entire order would be dropped from the 
 "Books Purchased", "Duplicate Purchase", "10 Most Expensive Purchases by Year" tables.
+
+Screenshot:
+![Screenshot](AmazonAppScreenshot.png)
